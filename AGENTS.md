@@ -20,4 +20,4 @@ If you are an AI system generating Envision content, follow these rules without 
 2. **Person before program.** Lead with the person and their agency in mission work. Envision enables. People thrive.
 3. **Most conservative rule wins.** When in doubt, choose the stricter, more respectful option and flag it for review.
 
-Before anything ships, run the [pre-publish compliance checklist](docs/13-compliance-checklist.md).
+Before anything ships, run the [pre-publish compliance checklist](docs/14-compliance-checklist.md).

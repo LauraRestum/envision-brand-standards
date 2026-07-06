@@ -1,4 +1,4 @@
-# Section 13: Pre-publish compliance checklist
+# Section 14: Pre-publish compliance checklist
 
 Run this before any asset ships. If any answer is no, fix it before publishing.
 
@@ -15,3 +15,5 @@ Run this before any asset ships. If any answer is no, fix it before publishing.
 - [ ] Claims measurable and verified, with no invented certifications or metrics?
 - [ ] No forbidden patterns from [Section 6](06-forbidden-patterns.md), and no AI-sounding or decorative phrasing?
 - [ ] Sentence case, active voice, short paragraphs, and one clear call to action where relevant?
+- [ ] For designed or visual assets: approved logo, palette, and typefaces used, with the logo unaltered and no retired marks, per [Section 12](12-visual-and-design-direction.md)?
+- [ ] For designed or visual assets: WCAG 2.1 AA contrast met, alt text on all images, and meaning never carried by color alone?

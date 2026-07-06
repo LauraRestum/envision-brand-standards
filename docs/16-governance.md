@@ -1,4 +1,4 @@
-# Section 15: Governance and maintenance
+# Section 16: Governance and maintenance
 
 - **Owner.** Maintained by Envision Marketing. Contact **marketing@envisionus.com** with questions or proposed changes.
 - **Version.** Version 2.0, June 2026. This document supersedes the Envision AI Brand Directive v1.0, the earlier AI Messaging Directive draft, and the legacy brand book.

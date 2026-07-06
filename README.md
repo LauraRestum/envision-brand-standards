@@ -35,7 +35,7 @@ Apply the rules in this order every time. Each layer sits on top of the one befo
 1. **Context.** Commercial, government, mission-program, donor, or internal. Sets the voice. See [Section 2](docs/02-mission-and-credibility-rule.md).
 2. **Section 8 or a pillar.** Commercial and government work uses [Section 8](docs/08-commercial-and-government.md); otherwise identify the pillar in [Section 9](docs/09-writing-about-each-part.md).
 3. **Audience.** Apply the audience directive in [Section 10](docs/10-audience-directives.md) on top of the pillar.
-4. **Asset type.** Apply the asset rules in [Section 11](docs/11-asset-type-rules.md) for the format you are producing.
+4. **Asset type.** Apply the asset rules in [Section 11](docs/11-asset-type-rules.md) for the format you are producing. For anything designed or visual, also apply [Section 12](docs/12-visual-and-design-direction.md).
 5. **Universal rules.** [Sections 5](docs/05-writing-style-and-terminology.md), [6](docs/06-forbidden-patterns.md), and [7](docs/07-word-swap-reference.md) apply to everything, always. Never optional.
 
 ---
@@ -66,10 +66,11 @@ See [Section 6: Forbidden patterns](docs/06-forbidden-patterns.md) for the full 
 | 9 | [How to write about each part of Envision](docs/09-writing-about-each-part.md) | Ready language per program and service |
 | 10 | [Audience directives](docs/10-audience-directives.md) | Directive per audience |
 | 11 | [Asset type rules](docs/11-asset-type-rules.md) | Rules per format |
-| 12 | [Worked examples, before and after](docs/12-worked-examples.md) | Common mistakes corrected |
-| 13 | [Pre-publish compliance checklist](docs/13-compliance-checklist.md) | Run before any asset ships |
-| 14 | [Quick-reference glossary](docs/14-glossary.md) | Approved short forms, lockups, retired terms |
-| 15 | [Governance and maintenance](docs/15-governance.md) | Ownership, versioning, change process |
+| 12 | [Visual and design direction](docs/12-visual-and-design-direction.md) | Logo, color, typography, imagery, accessibility |
+| 13 | [Worked examples, before and after](docs/13-worked-examples.md) | Common mistakes corrected |
+| 14 | [Pre-publish compliance checklist](docs/14-compliance-checklist.md) | Run before any asset ships |
+| 15 | [Quick-reference glossary](docs/15-glossary.md) | Approved short forms, lockups, retired terms |
+| 16 | [Governance and maintenance](docs/16-governance.md) | Ownership, versioning, change process |
 
 ---
 

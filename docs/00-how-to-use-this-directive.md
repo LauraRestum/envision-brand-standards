@@ -9,7 +9,7 @@ Apply the rules in this order every time. Each layer sits on top of the one befo
 1. **Context.** Decide whether the work is commercial, government, mission-program, donor, or internal. This sets the voice. See [Section 2](02-mission-and-credibility-rule.md).
 2. **Section 8 or a pillar.** If the work is commercial or government, use [Section 8](08-commercial-and-government.md). Otherwise identify the pillar in [Section 9](09-writing-about-each-part.md).
 3. **Audience.** Apply the audience directive in [Section 10](10-audience-directives.md) on top of the pillar.
-4. **Asset type.** Apply the asset rules in [Section 11](11-asset-type-rules.md) for the format you are producing.
+4. **Asset type.** Apply the asset rules in [Section 11](11-asset-type-rules.md) for the format you are producing. For anything designed or visual, also apply the visual and design direction in [Section 12](12-visual-and-design-direction.md).
 5. **Universal rules.** [Sections 5](05-writing-style-and-terminology.md), [6](06-forbidden-patterns.md), and [7](07-word-swap-reference.md) apply to everything, always. They are never optional.
 
 ## The three rules that settle most questions
