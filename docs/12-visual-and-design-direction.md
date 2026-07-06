@@ -4,6 +4,18 @@ This section governs how Envision looks: logo, color, typography, imagery, and a
 
 Where visual identity concerns names, lockups, or specific logo files, defer to Envision's Standard Naming Units document and the brand asset library. This section sets direction. It does not replace those sources.
 
+## Instructions for AI tools and agents
+
+If you are generating or specifying any visual or designed output (web pages, HTML, slides, email templates, social graphics, CSS, or design specs), follow these rules without exception. They restate the section below in operational form.
+
+- **Use the exact values in this section.** Copy hex values and Pantone codes verbatim from the color tables. Never approximate a brand color, sample one from an image, or invent a shade. Primary blue is `#003087`. Navy is `#002855`. Green is `#78BE21`.
+- **Typeface by medium.** For anything web, HTML, or digital, set type in **Montserrat**. For print or designed print materials, **Gotham**. **Humanist** is logo-only. Never set web copy in Gotham, and never substitute a typeface not listed here. If a target platform cannot load Montserrat, fall back to a system sans-serif and flag it, do not swap in another brand font.
+- **Never render or redraw the logo.** Do not recreate the Envision mark in code, recolor it, restyle it, or generate a substitute. Reference the approved asset file from the brand asset library and preserve clear space equal to the height of the _E_.
+- **Never invent lockups or names.** Programs and services are text under the master brand. Defer all lockups and naming to the Standard Naming Units document.
+- **Enforce accessibility as you build.** Every foreground and background pair you output must meet WCAG 2.1 AA (4.5:1 for normal text, 3:1 for large text). When unsure, choose a pairing from the approved list below. Add alt text to every image. Never encode meaning in color alone.
+- **The words in a design still follow the directive.** Every caption, label, button, heading, and alt text must pass the universal rules. No _impaired_, no _BVI_, no em dashes, no forbidden patterns. A visually correct asset with off-brand words fails review.
+- **When in doubt, defer.** Choose the more conservative, more accessible option, use an approved value, and flag the choice for a human reviewer rather than guessing.
+
 ## One visual system, two voices
 
 The two voices in [Section 1](01-identity.md#the-two-voices) share one visual system. The logo, palette, and typefaces do not change between them. The emphasis does.
