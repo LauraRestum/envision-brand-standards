@@ -1,4 +1,4 @@
-# Section 14: Quick-reference glossary
+# Section 15: Quick-reference glossary
 
 ## Approved short forms
 

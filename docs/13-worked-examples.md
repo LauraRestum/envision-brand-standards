@@ -1,4 +1,4 @@
-# Section 12: Worked examples, before and after
+# Section 13: Worked examples, before and after
 
 Each example shows a common mistake, the corrected version, and the reason. Use these as patterns, not as copy to reuse verbatim.
 

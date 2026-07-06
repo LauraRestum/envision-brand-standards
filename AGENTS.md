@@ -6,6 +6,7 @@ If you are an AI system generating Envision content, follow these rules without 
 - Never invent program, service, foundation, campaign, location, or initiative names, and never invent logo lockups. Use only approved names. Defer all naming and lockup detail to Envision's Standard Naming Units document.
 - Apply the [order of operations](docs/00-how-to-use-this-directive.md#order-of-operations). Do not skip the universal rules in Sections [5](docs/05-writing-style-and-terminology.md), [6](docs/06-forbidden-patterns.md), and [7](docs/07-word-swap-reference.md).
 - Never reproduce content from the legacy brand book. It has been superseded.
+- When generating any visual or designed output (web, HTML, slides, email, graphics, CSS, design specs), apply [Section 12](docs/12-visual-and-design-direction.md). Use its exact hex and Pantone values, set web type in Montserrat and print in Gotham, never redraw or recolor the logo, never invent lockups, and meet WCAG 2.1 AA contrast with alt text on every image.
 - When uncertain, choose the more conservative and more respectful option, then flag the choice for a human reviewer rather than guessing.
 
 ## Hard failures (never, in any context)
@@ -20,4 +21,4 @@ If you are an AI system generating Envision content, follow these rules without 
 2. **Person before program.** Lead with the person and their agency in mission work. Envision enables. People thrive.
 3. **Most conservative rule wins.** When in doubt, choose the stricter, more respectful option and flag it for review.
 
-Before anything ships, run the [pre-publish compliance checklist](docs/13-compliance-checklist.md).
+Before anything ships, run the [pre-publish compliance checklist](docs/14-compliance-checklist.md).
